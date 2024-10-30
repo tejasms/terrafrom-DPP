@@ -1,4 +1,4 @@
-bucket_name = "prod-s3-terra44"
+bucket_name = "prod-s3-terra30"
 
 s3_bucket_domain_name = "aws_s3_bucket.s3publicblock44.bucket_regional_domain_name"
 
