@@ -46,7 +46,7 @@ resource "aws_cloudfront_distribution" "s3_distribution444" {
 
 
 resource "aws_cloudfront_origin_access_control" "s3_distribution444" {
-  name                              = "pre-prodoac2"
+  name                              = "prodoac3"
   description                       = "Example Policy"
   origin_access_control_origin_type = "s3"
   signing_behavior                  = "always"
